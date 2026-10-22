@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gauravgupta369
-- 👀 I’m interested in Python, Django, React.JS, AWS, DSA, LLD< HLD.
 - 📫 How to reach me @gauravgupta369
 
 <!---
